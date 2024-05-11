@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectMarsAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da2da668cbebc069b50ef6db8b80f5040d0aee62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a76d3703c05e4985e860dea182a9f73e10dfae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectMarsAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectMarsAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

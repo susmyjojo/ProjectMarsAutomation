@@ -56,9 +56,13 @@
               "target": "Package",
               "version": "[17.9.0, )"
             },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[4.5.0, )"
             },
             "Selenium.Support": {
               "target": "Package",
@@ -66,27 +70,39 @@
             },
             "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[4.19.0, )"
+              "version": "[4.20.0, )"
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[123.0.6312.8600, )"
+              "version": "[124.0.6367.9100, )"
             },
             "SeleniumExtras.WaitHelpers": {
               "target": "Package",
               "version": "[1.0.2, )"
             },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
             "SpecFlow.NUnit": {
               "target": "Package",
-              "version": "[3.9.40, )"
+              "version": "[3.9.74, )"
             },
             "SpecFlow.Plus.LivingDocPlugin": {
               "target": "Package",
               "version": "[3.9.57, )"
             },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.2, )"
+            },
             "nunit": {
               "target": "Package",
-              "version": "[3.13.2, )"
+              "version": "[4.1.0, )"
             }
           },
           "imports": [
